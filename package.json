@@ -1,0 +1,26 @@
+{
+  "name": "ce",
+  "version": "1.0.0",
+  "description": "ce bot whatsapp est un prototipe developper par limule Hinugera chef du clan. mon ib +237673278970",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shikaHinugera",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "whatsapp-web.js": "^1.27.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devtali/New-dev-Hinugera-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Devtali/New-dev-Hinugera-/issues"
+  },
+  "homepage": "https://github.com/Devtali/New-dev-Hinugera-#readme"
+}
